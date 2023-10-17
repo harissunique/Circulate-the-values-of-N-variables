@@ -32,7 +32,9 @@ def circulate():
 ```
 
 ## Output:
-!["output"](/output.png)
+
+![output](https://github.com/harissunique/Circulate-the-values-of-N-variables/assets/147139338/99deae24-1b7f-452f-b1b5-6fa703286605)
+
 
 
 ## Result:
